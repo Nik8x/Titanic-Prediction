@@ -1,5 +1,2 @@
-static/* linguist-vendored
-
-docs/* linguist-documentation
-
-*.rb linguist-language=R
+$ cat .gitattributes
+*.rb linguist-language=Java
