@@ -491,7 +491,7 @@ write.csv(submit, file = "crandomforest.csv", row.names = FALSE) # store Passeng
 
 
 ```{r}
-# we get best predictions now. this can still be improved
+# we get best predictions now. this can still be improved.
 ```
 
 
