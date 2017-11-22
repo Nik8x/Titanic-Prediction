@@ -1,7 +1,7 @@
 ---
 title: "Titanic"
 author: "Niket"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ***
